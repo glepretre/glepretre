@@ -6,11 +6,14 @@
 
 - 🏘️ I live and work remotely from **Lyon, France** 🦁🇫🇷
 
-- 👨‍🏭 I’m currently working as [@genygilles](https://github.com/genygilles) on [Genymotion SaaS](https://cloud.geny.io)
+- ⚕️ I'm now working at [@Kozea](https://github.com/Kozea) to help pharmacists to take care of us!
+  - We use React, Redux, Next ...and soon Elm 💟
+
+- 📱 Previously, I was working as [@genygilles](https://github.com/genygilles) on [Genymotion SaaS](https://cloud.geny.io)
   - It is built with ❤️ ...and a lot of time ⌚
   - It uses **Vue** , Vuetify, VueX and Cypress
 
-- 👨‍🦳 Previously, I was working on [Geo-log 4](https://geolog4.com)
+- 👨‍🦳 I used to work on [Geo-log 4](https://geolog4.com)
   - It was built with AngularJS, Bootstrap, Karma and Protractor
 
 - 🌱 I’m currently learning **to be a father** 👶, and React 🔜
@@ -19,6 +22,7 @@
 
 - ⚡ Fun fact: **I am an engineer**... in Chemistry! 👨‍🔬
 - ✌️ Fun fact 2: Yes, I do love emojis 😬, my favorite one is 🥺
+- ☘️ Fun fact 3: 3 jobs, 2 with [@gentooboontoo](https://github.com/gentooboontoo) 🤝
 
 <br>
 
@@ -32,6 +36,10 @@ Take care 😗
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" />
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /> 
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
 </div>
