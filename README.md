@@ -7,16 +7,16 @@
 - 🏘️ I live and work remotely from **Lyon, France** 🦁🇫🇷
 
 - ⚕️ I'm now working at [@Kozea](https://github.com/Kozea) to help pharmacists to take care of us!
-  - We use React, Redux, Next ...and soon Elm 💟
+  - We use React, Redux, Next ...and soon Vue 💟
 
 - 📱 Previously, I was working as [@genygilles](https://github.com/genygilles) on [Genymotion SaaS](https://cloud.geny.io)
   - It is built with ❤️ ...and a lot of time ⌚
-  - It uses **Vue** , Vuetify, VueX and Cypress
+  - It uses Vue, Vuetify, VueX and Cypress
 
 - 👨‍🦳 I used to work on [Geo-log 4](https://geolog4.com)
   - It was built with AngularJS, Bootstrap, Karma and Protractor
 
-- 🌱 I’m currently learning **to be a father** 👶, and React 🔜
+- 🌱 I’m currently learning **to be a father** 👶, and back-end 🔙
 
 - 👉 Check out my [pure HTML/CSS resume](https://github.com/glepretre/resume)!
 
