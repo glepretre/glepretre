@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gilles</h1>
-<h3 align="center">I'm a <b>front-end developer</b>, since 2013 💻</h3>
+<h3 align="center">I'm a <b>full-stack developer</b>, since 2013 💻</h3>
 <h3 align="center">I turn music 🎧 and caffeine ☕ into code 👨‍💻</h3>
 
 <br>
